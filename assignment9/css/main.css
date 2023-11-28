@@ -1,0 +1,66 @@
+body {
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+.site-banner {
+    background-color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 8px;
+}
+
+.logo {
+    width: 188px;
+
+}
+
+
+.article {
+    max-width: 1200px;
+    padding-lef: 10px;
+    padding-right: 10px;
+}
+
+.story-header {
+
+}
+
+.story-body {
+
+}
+
+.photo {
+    width: 100%
+
+}
+
+.photo-caption {
+
+}
+
+.story-footer {
+
+}
+
+.footer-info {
+
+}
+
+.news-section {
+
+}
+
+.deck {
+
+}
+
+.byline {
+
+}
+
+.publish-date {
+
+}
